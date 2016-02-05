@@ -1,8 +1,7 @@
 /*
   COMP-50 Wearables Dice Roller
-  This sketch uses a button between pin 4 and
-  ground to toggle an LED connected between pin 5 and
-  a resistor (which is tied to ground).
+  This sketch uses a button between pin A0 and
+  ground to toggle LEDs.
 */
 #include <PinChangeInt.h>
 
